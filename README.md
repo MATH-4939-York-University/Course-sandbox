@@ -5,6 +5,16 @@ When you work on your copy of the repo:
 - **Commit and push often as you work** 
 - **Always commit and push at the end of a session** 
 
+To clone this repo as an RStudio project:
+- If you haven't yet: 
+  - Install RStudio and git 
+  - Create and RSA key in RStudio and install the public SSH key in GitHub
+- In RStudio use the menu:  Tools > Shell
+- cd to the parent directory of the directory for the repo
+- use the command: git clone git@github.com:MATH-4939-York-University/Course-sandbox.git
+- In RStudio click on 'New Project' at the top right and select "Existing Directory" in the "New Project" menu.
+- Browse to the directory just created by cloning and select "Create Project"
+
 ## Project description
 
 Describe your project here.
@@ -69,3 +79,5 @@ Describe your project here.
 - Deadline: 
 - Progress:
 - Comments: 
+
+### Continue with more tasks
