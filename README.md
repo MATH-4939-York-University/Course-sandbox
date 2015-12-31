@@ -1,6 +1,9 @@
 # Course-sandbox
 
-** Remember to pull when you start work. Commit and push often as you work. Always commit and push at the end ** 
+When you work on your copy of the repo:
+- **Remember to pull when you start work**
+- **Commit and push often as you work** 
+- **Always commit and push at the end of a session** 
 
 ## Project description
 
@@ -18,7 +21,7 @@
 ## Tasks
 
 ### Initial Setup
-- Description: 
+- Description: See Issue #1
   - Clone repo to each personal computer
   - setup individual directories - and push back 
   - create milestones in GitHub, decide on dates
@@ -52,7 +55,7 @@
 - Progress:
 - Comments: 
 
-### Methdology research
+### Methodology research
 - Description: Research statistical methods 
 - Who: Accountable:   Responsible:  Resource:
 - Deadline: 
@@ -60,3 +63,8 @@
 - Comments: 
 
 ### Prepare data for analysis
+- Description: Write .R file to create data frame(s) for analysis 
+- Who: Accountable:   Responsible:  Resource:
+- Deadline: 
+- Progress:
+- Comments: 
