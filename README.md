@@ -7,6 +7,8 @@ When you work on your copy of the repo:
 
 ## Project description
 
+Describe your project here.
+
 ## Milestones
 
 | Description                                         | Due                   |
