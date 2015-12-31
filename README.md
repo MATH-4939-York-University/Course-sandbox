@@ -33,7 +33,7 @@ Describe your project here.
 ## Tasks
 
 ### Initial Setup
-- Description: See Issue #1
+- Description: See [Issue #1](issues/1)
   - Clone repo to each personal computer
   - setup individual directories - and push back 
   - create milestones in GitHub, decide on dates
