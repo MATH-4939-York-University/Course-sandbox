@@ -7,8 +7,8 @@ When you work on your copy of the repo:
 
 To clone this repo as an RStudio project:
 - If you haven't yet: 
-  - Install RStudio and git 
-  - Create and RSA key in RStudio and install the public SSH key in GitHub
+  - Install RStudio and git on your computer
+  - Create an RSA key in RStudio and install the public SSH key in GitHub
 - In RStudio use the menu:  Tools > Shell
 - cd to the parent directory of the directory for the repo
 - use the command: git clone git@github.com:MATH-4939-York-University/Course-sandbox.git
@@ -27,8 +27,8 @@ Describe your project here.
 | Complete initial research and data preparation      ||
 | Complete initial analysis and report outline        ||
 | Complete draft analysis and report                  ||
-| Complete final analysis and report in files  [Analysis.R](Analysis.R) and [Report.R](Report.R)  ||
-| Complete and rehearse presentation                 ||
+| Complete final analysis and report in files  [Analysis.R](Analysis.R) and [Report.R](Report.R)  |March 21|
+| Complete and rehearse presentation  [Slides.R](Slides.R)               ||
 
 ## Tasks
 
