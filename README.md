@@ -25,8 +25,7 @@ When you work on your copy of the repo:
   - Clone repo to each personal computer
   - setup individual directories - and push back 
   - create milestones in GitHub, decide on dates
-  - assign someone to be responsible for overall organization -- this should rotate 
-  create Issues for tasks
+  - assign someone to be responsible for overall organization and keeping things on track -- this should rotate 
 - Who: Accountable: [Always one person accountable]  Responsible: [and one person responsible] Resource:
 - Deadline: 
 - Progress:
