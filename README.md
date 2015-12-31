@@ -14,9 +14,19 @@
 | Complete and rehearse presentation                 ||
 
 ## Tasks
+
 ### Initial Setup
 - Description: setup individual directories, create milestones in GitHub, decide who will be responsible for overall organization 
   create Issues for tasks
+- Who: Accountable:   Responsible:  Resource:
+- Deadline: 
+- Progress:
+- Comments: 
+
+### Project Timeline
+- Description: Decide on 
+  - dates for milestones
+  - deadlines for initial tasks
 - Who: Accountable:   Responsible:  Resource:
 - Deadline: 
 - Progress:
@@ -36,4 +46,11 @@
 - Progress:
 - Comments: 
 
+### Methdology research
+- Description: Research statistical methods 
+- Who: Accountable:   Responsible:  Resource:
+- Deadline: 
+- Progress:
+- Comments: 
 
+### Prepare data for analysis
