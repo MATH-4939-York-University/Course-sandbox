@@ -1,5 +1,7 @@
 # Course-sandbox
 
+** Remember to pull when you start work. Commit and push often as you work. Always commit and push at the end ** 
+
 ## Project description
 
 ## Milestones
@@ -16,9 +18,13 @@
 ## Tasks
 
 ### Initial Setup
-- Description: setup individual directories, create milestones in GitHub, decide who will be responsible for overall organization 
+- Description: 
+  - Clone repo to each personal computer
+  - setup individual directories - and push back 
+  - create milestones in GitHub, decide on dates
+  - assign someone to be responsible for overall organization -- this should rotate 
   create Issues for tasks
-- Who: Accountable:   Responsible:  Resource:
+- Who: Accountable: [Always one person accountable]  Responsible: [and one person responsible] Resource:
 - Deadline: 
 - Progress:
 - Comments: 
