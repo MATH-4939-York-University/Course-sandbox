@@ -9,7 +9,7 @@ When you work on your copy of the repo:
 
 ## Milestones
 
-| Description                                         | Date                   |
+| Description                                         | Due                   |
 |-----------------------------------------------------|------------------------|
 | Organizational meeting                              ||
 | Complete initial research and data preparation      ||
